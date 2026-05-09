@@ -1,0 +1,61 @@
+State,District,Crop,Season,Rainfall_mm,Temperature_C,Soil_Type,Fertilizer_Used_kg,Irrigation_Type,Production_Tons,Market_Price,Demand_Index,Yield_per_Acre,Farmer_Profit,Date
+Maharashtra,Pune,Rice,Kharif,850,28,Clay,120,Flood,4500,2200,75,2.8,85000,2023-07-15
+Punjab,Ludhiana,Wheat,Rabi,450,18,Loamy,95,Sprinkler,6200,1800,82,3.5,112000,2023-11-20
+Karnataka,Mysore,Tomato,Summer,320,32,Sandy,80,Drip,2800,4500,90,4.2,145000,2023-03-10
+Uttar Pradesh,Agra,Sugarcane,Kharif,780,30,Loamy,150,Flood,8500,350,65,5.1,72000,2023-08-05
+Andhra Pradesh,Guntur,Cotton,Kharif,620,34,Black,110,Sprinkler,3200,5800,78,2.1,98000,2023-09-12
+Rajasthan,Jaipur,Mustard,Rabi,280,16,Sandy,70,Drip,1900,4200,70,1.8,65000,2023-12-01
+Tamil Nadu,Coimbatore,Banana,Summer,550,35,Loamy,130,Drip,5600,2800,85,6.3,168000,2023-04-20
+West Bengal,Kolkata,Jute,Kharif,1200,29,Clay,60,Flood,2100,3600,55,1.5,48000,2023-07-08
+Madhya Pradesh,Bhopal,Soybean,Kharif,720,27,Black,85,Sprinkler,3800,3900,72,2.9,88000,2023-08-25
+Gujarat,Ahmedabad,Groundnut,Kharif,580,33,Sandy,90,Drip,2600,5100,80,2.4,95000,2023-09-30
+Maharashtra,Nashik,Onion,Rabi,380,22,Loamy,75,Drip,4200,1500,88,3.8,78000,2023-01-15
+Punjab,Amritsar,Rice,Kharif,780,29,Clay,115,Flood,5800,2100,77,3.2,95000,2023-07-20
+Karnataka,Bangalore,Potato,Rabi,420,20,Loamy,100,Sprinkler,3100,2600,83,3.6,102000,2023-12-10
+Uttar Pradesh,Varanasi,Wheat,Rabi,390,17,Loamy,88,Flood,5500,1900,79,3.1,88000,2023-11-25
+Andhra Pradesh,Kurnool,Rice,Kharif,920,31,Clay,125,Flood,5200,2000,74,2.9,82000,2023-07-18
+Rajasthan,Bikaner,Cotton,Kharif,290,36,Sandy,95,Drip,1800,6200,68,1.6,72000,2023-09-05
+Tamil Nadu,Madurai,Sugarcane,Kharif,650,33,Loamy,140,Flood,9200,380,71,5.8,88000,2023-08-15
+West Bengal,Howrah,Rice,Kharif,1350,28,Clay,105,Flood,4800,2150,76,2.6,78000,2023-07-12
+Madhya Pradesh,Indore,Wheat,Rabi,340,15,Loamy,80,Sprinkler,4900,1950,81,2.8,72000,2023-12-05
+Gujarat,Surat,Cotton,Kharif,510,34,Black,100,Drip,2900,5900,77,2.2,85000,2023-09-18
+Maharashtra,Aurangabad,Cotton,Kharif,490,33,Black,105,Sprinkler,2700,5700,76,2.0,78000,2023-09-22
+Punjab,Jalandhar,Maize,Kharif,680,28,Loamy,90,Sprinkler,4100,1600,69,2.7,62000,2023-08-10
+Karnataka,Dharwad,Sunflower,Rabi,350,24,Loamy,65,Drip,1600,5200,64,1.4,52000,2023-01-20
+Uttar Pradesh,Lucknow,Potato,Rabi,360,16,Loamy,95,Sprinkler,3800,2800,86,3.4,98000,2023-12-15
+Andhra Pradesh,Vijayawada,Tomato,Summer,280,35,Sandy,75,Drip,3500,4200,89,4.8,158000,2023-03-25
+Rajasthan,Jodhpur,Bajra,Kharif,310,38,Sandy,50,Flood,1200,2200,58,1.1,28000,2023-08-30
+Tamil Nadu,Trichy,Groundnut,Kharif,580,34,Sandy,85,Drip,2400,5000,75,2.3,88000,2023-09-08
+West Bengal,Burdwan,Potato,Rabi,480,19,Loamy,90,Sprinkler,4500,2500,84,4.1,112000,2023-01-08
+Madhya Pradesh,Gwalior,Soybean,Kharif,680,28,Black,80,Flood,3500,3800,70,2.7,82000,2023-08-20
+Gujarat,Vadodara,Wheat,Rabi,320,17,Loamy,78,Sprinkler,4200,2000,78,2.5,65000,2023-11-30
+Maharashtra,Solapur,Jowar,Kharif,420,31,Black,55,Flood,2100,1800,62,1.8,38000,2023-08-18
+Punjab,Patiala,Wheat,Rabi,420,16,Loamy,92,Flood,6500,1850,83,3.7,115000,2023-11-22
+Karnataka,Hubli,Cotton,Kharif,480,32,Black,108,Sprinkler,2500,5600,74,1.9,82000,2023-09-15
+Uttar Pradesh,Meerut,Sugarcane,Kharif,720,30,Loamy,145,Flood,9500,360,68,5.5,85000,2023-08-08
+Andhra Pradesh,Nellore,Shrimp,Summer,380,36,Sandy,20,Flood,850,12000,92,0.8,185000,2023-04-10
+Rajasthan,Udaipur,Maize,Kharif,520,30,Loamy,70,Sprinkler,2200,1700,65,1.9,42000,2023-08-28
+Tamil Nadu,Salem,Turmeric,Rabi,620,26,Loamy,110,Drip,1800,8500,80,2.1,142000,2023-01-25
+West Bengal,Midnapore,Jute,Kharif,1250,30,Clay,55,Flood,1900,3800,52,1.4,42000,2023-07-05
+Madhya Pradesh,Ujjain,Wheat,Rabi,320,14,Loamy,82,Flood,4600,1920,80,2.6,68000,2023-12-08
+Gujarat,Rajkot,Groundnut,Kharif,540,33,Sandy,88,Drip,2800,5200,78,2.5,92000,2023-09-25
+Maharashtra,Mumbai,Rice,Kharif,920,29,Clay,118,Flood,4200,2300,73,2.5,78000,2023-07-25
+Punjab,Ferozepur,Rice,Kharif,760,28,Clay,112,Flood,5500,2050,75,3.1,88000,2023-07-22
+Karnataka,Belgaum,Sugarcane,Kharif,680,31,Loamy,135,Flood,8800,365,67,5.2,78000,2023-08-12
+Uttar Pradesh,Allahabad,Rice,Kharif,800,29,Clay,108,Flood,4700,2100,72,2.7,78000,2023-07-28
+Andhra Pradesh,Tirupati,Groundnut,Kharif,560,33,Sandy,82,Drip,2500,5100,77,2.3,88000,2023-09-20
+Rajasthan,Alwar,Wheat,Rabi,360,15,Loamy,75,Flood,3800,1980,76,2.2,58000,2023-12-12
+Tamil Nadu,Vellore,Rice,Kharif,780,30,Clay,115,Flood,4400,2200,74,2.8,82000,2023-07-30
+West Bengal,Nadia,Rice,Kharif,1180,29,Clay,108,Flood,5100,2080,77,2.9,88000,2023-07-15
+Madhya Pradesh,Sagar,Soybean,Kharif,700,27,Black,82,Sprinkler,3600,3850,71,2.8,85000,2023-08-22
+Gujarat,Bhavnagar,Cotton,Kharif,490,34,Black,98,Sprinkler,2700,5800,76,2.1,82000,2023-09-28
+Maharashtra,Kolhapur,Sugarcane,Kharif,800,30,Loamy,138,Flood,9000,355,66,5.4,82000,2023-08-02
+Punjab,Bathinda,Cotton,Kharif,350,34,Sandy,92,Drip,2200,6000,72,1.7,75000,2023-09-10
+Karnataka,Shimoga,Pepper,Kharif,1800,26,Loamy,95,Drip,420,22000,88,0.5,95000,2023-09-05
+Uttar Pradesh,Gorakhpur,Maize,Kharif,750,28,Loamy,75,Sprinkler,3500,1650,67,2.5,55000,2023-08-15
+Andhra Pradesh,Ongole,Cotton,Kharif,580,33,Black,105,Sprinkler,3000,5700,75,2.3,88000,2023-09-15
+Rajasthan,Kota,Soybean,Kharif,640,29,Black,80,Sprinkler,3200,3750,69,2.5,78000,2023-08-25
+Tamil Nadu,Erode,Coconut,Summer,520,36,Sandy,70,Drip,8500,2200,82,7.2,152000,2023-04-15
+West Bengal,Bankura,Potato,Rabi,450,18,Loamy,88,Sprinkler,4200,2600,83,3.8,108000,2023-01-05
+Madhya Pradesh,Rewa,Rice,Kharif,850,28,Clay,115,Flood,4600,2150,73,2.8,82000,2023-07-20
+Gujarat,Junagadh,Banana,Summer,480,36,Loamy,125,Drip,5200,2900,83,5.9,158000,2023-04-25
